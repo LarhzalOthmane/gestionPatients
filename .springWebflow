@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.12.202003180620-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>config.xml</file>
+			<name><![CDATA[flow]]></name>
+			<beans-config><![CDATA[1:BeansModel|2:GPatients|3:java:com.patients.GPatientsApplication]]></beans-config>
+		</config>
+	</configs>
+</webflow-project-description>
